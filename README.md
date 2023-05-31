@@ -1,13 +1,17 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)
 <h1 align="center">Hola 👋, Soy Agustina</h1>
-<h3 align="center">Desarrolladora Web Full Stack</h3>
+<h3 align="center">Desarrolladora Web</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVjTT5dcAIXpwMwfDTKp1hlWr4UoG_hEI7Q&usqp=CAU" />
 
-- 🌱 Egresada del bootcamp intensivo de **Henry**
+- 🌱 Egresada del bootcamp intensivo de **Desarrollo Web Full Stack** de **Henry** y de
+   **Java Full Stack** de **Codo a Codo 4.0**
+
+- 📘 Actualmente estoy cursando una **Tecnicatura en Desarrollo de Software** y
+  aprendiendo inglés con **Inglés para IT** para egresados de codo a codo 
 
 - 📫 Puedes comunicarte conmigo a través de **agustinapaez96@gmail.com**
 
-- ⚡ Disfruto mi tiempo libre **jugando al padel y pasando tiempo con mi familia, mis mascotas y mis amigos**
+- ⚡ Disfruto mi tiempo libre **jugando padel y pasando tiempo con mi familia y amigos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
