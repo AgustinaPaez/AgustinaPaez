@@ -3,11 +3,9 @@
 <h3 align="center">Desarrolladora Web</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVjTT5dcAIXpwMwfDTKp1hlWr4UoG_hEI7Q&usqp=CAU" />
 
-- 🌱 Egresada del bootcamp intensivo de **Desarrollo Web Full Stack** de **Henry** y de
-   **Java Full Stack** de **Codo a Codo 4.0**
+- 🌱 Estudiante autodidacta, curiosa y comprometida son palabras que describen un poco de mi
 
-- 📘 Actualmente estoy cursando una **Tecnicatura en Desarrollo de Software** y
-  aprendiendo inglés con **Inglés para IT** para egresados de codo a codo 
+- 📘 Actualmente estoy cursando una **Tecnicatura en Desarrollo de Software**, practicando con proyectos personales y trabajando como **Quality Engineer** mientras busco la oportunidad de seguir ampliando mis skills como **Desarrolladora**
 
 - 📫 Puedes comunicarte conmigo a través de **agustinapaez96@gmail.com**
 
